@@ -1,8 +1,9 @@
 <div>
 🔴🟡🟢
+<br>
 
 <br>
-![Header](./github-header-image.png)
+<img src="./github-header-image.png"
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AhmedElEla0&color=blueviolet" alt="Profile views" />
