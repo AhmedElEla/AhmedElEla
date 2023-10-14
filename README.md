@@ -69,7 +69,6 @@
 <div>
 
 <img src="./github-user-contribution.svg">
-  ## 📫 &nbsp;My Contacts
 
   <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Ahmed_El_Ela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmed-el-ela/)](https://www.linkedin.com/in/ahmed-el-ela/)&nbsp;
